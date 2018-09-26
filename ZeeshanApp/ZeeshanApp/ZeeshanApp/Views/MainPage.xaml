@@ -10,6 +10,7 @@
            
         </Button>
         <Label Text="welcome"></Label>
+        <Label Text="Hello"></Label>
     </StackLayout>
 
 </ContentPage>
