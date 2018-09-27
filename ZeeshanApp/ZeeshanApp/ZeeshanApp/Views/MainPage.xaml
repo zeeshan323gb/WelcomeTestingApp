@@ -11,6 +11,7 @@
         </Button>
         <Label Text="welcome"></Label>
         <Label Text="Hello"></Label>
+        <Label Text="this is my first clongin"></Label>
     </StackLayout>
 
 </ContentPage>
